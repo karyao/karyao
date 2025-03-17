@@ -12,7 +12,8 @@ I'm a **Computer Science** student at Simon Fraser University (SFU), always lear
 ## 🤝 Community & Leadership
 - **SFU Computing Science Student Society Assistant Director of Events**
 - **Try/CATCH 2024 Communication Coordinator**
-- **SFU Computing Science Student Society Events Committee**
+- **SFU Computing Science Student Society Events Committee Member**
+- **SFU Robot Soccer Software Developer**
 
 ## 📬 Connect With Me
 - **GitHub**: [@karyao](https://github.com/karyao)
