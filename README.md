@@ -12,6 +12,7 @@ Besides learning more about technology, I am very involved with the community wh
 - **Data Science and AI**: NumPy, Pandas, OpenAI API, PyTorch
 
 ## 🤝 Community & Leadership
+- SFU Computing Science Student Socity Vice President
 - SFU Computing Science Student Society Assistant Director of Events
 - Try/CATCH 2024 Communication Coordinator
 - SFU Computing Science Student Society Events Committee Member
