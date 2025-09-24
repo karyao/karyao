@@ -6,13 +6,14 @@ I'm a **Computer Science** student at Simon Fraser University (SFU), always lear
 Besides learning more about technology, I am very involved with the community whether that would be volunteering or just meeting new people! 
 
 ## 🛠 Skills & Tools
-- **Languages**: Python, C, C++, C#, Java, JavaScript, R
-- **Frameworks**: ReactJS, Next.js, Tailwind CSS, Django
-- **Developer Tools**: Git/GitHub, Visual Studio Code, Figma, PyCharm, RStudio
-- **Data Science and AI**: NumPy, Pandas, OpenAI API, PyTorch
+- **Languages**: Python, C, C++, C#, Java, JavaScript, R, Koltin
+- **Frameworks**: ReactJS, Next.js, Tailwind CSS, Django, Android Jetpack, CameraX, ML Kit 
+- **Developer Tools**: Git/GitHub, Visual Studio Code, Android Studio, Figma, PyCharm, RStudio
+- **Data Science and AI**: NumPy, Pandas, OpenAI API, PyTorch, ML Kit Text Recognition & Translation
 
 ## 🤝 Community & Leadership
-- SFU Computing Science Student Socity Vice President
+- SFU Computing Science Student Society Vice President
+- SFU Surge Logistics Coordinator
 - SFU Computing Science Student Society Assistant Director of Events
 - Try/CATCH 2024 Communication Coordinator
 - SFU Computing Science Student Society Events Committee Member
@@ -22,7 +23,7 @@ Besides learning more about technology, I am very involved with the community wh
 ## 📬 Connect With Me
 - **GitHub**: [@karyao](https://github.com/karyao)
 - **LinkedIn**: [linkedin.com/in/karenjhyao](https://www.linkedin.com/in/karenjhyao/)
-- **Portfolio (Coming Soon)**
+- **Portfolio**: [https://karenyao.vercel.app/](https://karenyao.vercel.app/)
 
 TLDR;
 I love computers and people :) 
