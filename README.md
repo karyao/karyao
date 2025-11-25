@@ -15,4 +15,4 @@ Fueled with lots of coffee, tea, and ragecoding.
 Feel free to reach out!
 - **GitHub**: [@karyao](https://github.com/karyao)
 - **LinkedIn**: [linkedin.com/in/karenjhyao](https://www.linkedin.com/in/karenjhyao/)
-- **Portfolio**: [https://karenyao.vercel.app/](https://karenyao.vercel.app/)
+- **Portfolio**: [kjhy.dev/](https://kjhy.dev)
