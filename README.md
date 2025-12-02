@@ -14,5 +14,6 @@ Fueled with lots of coffee, tea, and ragecoding.
 ## 📬 Socials
 Feel free to reach out!
 - **GitHub**: [@karyao](https://github.com/karyao)
+- **GitLab**: [@kjhy](https://gitlab.com/kjhy) <3 Robot Soccer!
 - **LinkedIn**: [linkedin.com/in/karenjhyao](https://www.linkedin.com/in/karenjhyao/)
 - **Portfolio**: [kjhy.dev/](https://kjhy.dev)
