@@ -10,10 +10,11 @@ Fueled with lots of coffee, tea, and ragecoding.
 - Software Engineering Intern at [Rivian and Volkswagen Group Technologies](https://rivianvw.tech/)
 - Software Developer at [SFU Robot Soccer](https://gitlab.com/sfurs/software)
 - Vice President at [SFU Computing Science Student Society](https://sfucsss.org/)
+- Logistics Coordinator at [SFU Surge](https://sfusurge.com/)
 
 ## 📬 Socials
 Feel free to reach out!
 - **GitHub**: [@karyao](https://github.com/karyao)
 - **GitLab**: [@kjhy](https://gitlab.com/kjhy) <3 Robot Soccer!
 - **LinkedIn**: [linkedin.com/in/karenjhyao](https://www.linkedin.com/in/karenjhyao/)
-- **Portfolio**: [kjhy.dev/](https://kjhy.dev)
+- **Portfolio**: [kjhy.dev](https://kjhy.dev)
