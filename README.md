@@ -9,7 +9,6 @@ Fueled with lots of coffee, tea, and ragecoding.
 ## Currently at: 
 - Software Engineering Intern at [Rivian and Volkswagen Group Technologies](https://rivianvw.tech/)
 - Software Developer at [SFU Robot Soccer](https://gitlab.com/sfurs/software)
-- Vice President at [SFU Computing Science Student Society](https://sfucsss.org/)
 - Logistics Coordinator at [SFU Surge](https://sfusurge.com/)
 
 ## 📬 Socials
